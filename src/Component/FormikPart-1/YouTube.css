@@ -1,0 +1,13 @@
+.field {
+    color: red;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+.form-control {
+  margin-bottom: 20px;
+}
+
+.error {
+  color: red;
+}
